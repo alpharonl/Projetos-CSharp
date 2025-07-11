@@ -1,2 +1,2 @@
 # Projetos-CSharp
-projetinhos de C#
+Alguns projetinhos de C# para praticar
